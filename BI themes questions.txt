@@ -1,0 +1,15 @@
+How many people are there in each department?
+Gender distribution by department
+Age spread of our staff (histogram)
+MIN / MAX / AVERAGE Salary in each department
+Top earners in each country
+performance spread (sort by column)
+company growth trend
+Employee Filter (by starting letter)
+Performance vs Salary  - is there any relationship?
+India vs New Zealand - quick scorecard?
+
+
+Calculate Proportion  of USA and UK  amount as a percent?
+Make visual graph or table showing country and what % of boxes are sipped to them. so the total should add up 100%.Do not use pie or donut charts
+Calculate the shipment count where boxes shipped are under 100. show this as a value and percentage too.
